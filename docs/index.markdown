@@ -7,7 +7,7 @@ layout: home
 
 This is my website — it isn't fancy.
 
-There isn't much to see here, but here are links to things you might care 
+There isn't much to see here, but here are links to things you may care 
 about:
 
 * [LinkedIn](https://www.linkedin.com/in/blaketmorgan/)
